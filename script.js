@@ -22,7 +22,7 @@ class Keyboard {
     this.wrapper.classList.add('wrapper');
 
     this.title.classList.add('title');
-    this.title.textContent = 'RSS Virtual keyboard';
+    this.title.textContent = 'Virtual keyboard';
 
     this.text.autofocus = true;
     this.text.classList.add('text');
